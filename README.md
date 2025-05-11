@@ -1,3 +1,8 @@
+> [!WARNING]
+> I no longer use or maintain this mod. Contact me (you can email me) if you want me to put a link to a maintained alternative here.
+
+Idk why I was making this mod. I'm 99% sure there is already a mod for this.
+
 # Fabric Example Mod
 
 ## Setup
